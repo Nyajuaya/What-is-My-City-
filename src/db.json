@@ -1,0 +1,95 @@
+{
+    "cities": [
+      {
+       "id": 1, 
+       "cityName":"Mombasa"
+      },
+      {
+        "id": "2", 
+        "cityName":"Nairobi"
+       },
+       {
+        "id": "3", 
+        "cityName":"Dar es salaam"
+       },  
+       {
+        "id": "4", 
+        "cityName":"Tokyo"
+       },
+       {
+        "id": "5", 
+        "cityName":"New York"
+       },
+       {
+        "id": "6", 
+        "cityName":"Japan"
+       },
+       {
+        "id": "7", 
+        "cityName":"Luanda"
+       },
+       {
+        "id": "8", 
+        "cityName":"Cape Town"
+       },
+       {
+        "id": "9", 
+        "cityName":"Maputo"
+       },
+       {
+        "id": "10", 
+        "cityName":"Dakar"
+       },
+       {
+        "id": "11", 
+        "cityName":"Cairo"
+       },
+       {
+         "id": "12", 
+         "cityName":"Kigali"
+        },
+        {
+         "id": "13", 
+         "cityName":"Kampala"
+        },  
+        {
+         "id": "14", 
+         "cityName":"Harare"
+        },
+        {
+         "id": "15", 
+         "cityName":"Lusaka"
+        },
+        {
+         "id": "16", 
+         "cityName":"Monrovia"
+        },
+        {
+         "id": "17", 
+         "cityName":"Freetown"
+        },
+        {
+         "id": "18", 
+         "cityName":"Tripoli"
+        },
+        {
+         "id": "19", 
+         "cityName":"Rabat"
+        },
+        {
+         "id": "20", 
+         "cityName":"Abuja"
+        }
+      ]
+    }      
+     
+      
+    
+     
+    
+     
+ 
+
+
+
+
